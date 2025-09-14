@@ -1,2 +1,3 @@
 # Carrot
-virus test
+test
+self-use
